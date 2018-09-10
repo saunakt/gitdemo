@@ -19,6 +19,7 @@ import com.app.appname.utilities.PropertyReader;
 public class LoginPage extends CommonObjects {
 	static Logger logger = Logger.getLogger(LoginPage.class);
 	System.out.println("Added new line");
+	System.out.println("Added another new line");
 
 	public void launchFACEBOOK() {
 		try {
